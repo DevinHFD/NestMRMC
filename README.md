@@ -5,6 +5,11 @@
 
 This repo is for the methodology in the paper, "Single Reader Between-Cases AUC Estimator with Nested Data", submitted to SMMR Journal. It will be ready when the paper is published. 
 
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/Pakillo/template/workflows/R-CMD-check/badge.svg)](https://github.com/Pakillo/template/actions)
+
+[![HitCount since 2020-06-14](http://hits.dwyl.com/Pakillo/template.svg)](http://hits.dwyl.com/Pakillo/template)
+<!-- badges: end -->
 
 
 # Introduction
